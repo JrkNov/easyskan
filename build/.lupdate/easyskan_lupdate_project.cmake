@@ -1,0 +1,11 @@
+set(lupdate_project_file "/home/jirka/Dokumenty/Fedora/cpp/EasySkan/CMakeLists.txt")
+set(lupdate_translations "/home/jirka/Dokumenty/Fedora/cpp/EasySkan/easyskan_en.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "/home/jirka/Dokumenty/Fedora/cpp/EasySkan")
+set(lupdate_subproject1_include_paths "/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_autogen/include;/usr/include;/usr/include/qt6/QtCore;/usr/include/qt6;/usr/lib64/qt6/mkspecs/linux-g++;/usr/include/qt6;/usr/include/qt6/QtGui;/usr/include/qt6;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include/qt6/QtWidgets;/usr/include/qt6;/usr/include/qt6/QtPrintSupport;/usr/include/qt6")
+set(lupdate_subproject1_sources "/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;skenwindow.cpp;/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/.qt/rcc/qrc_easyskan_translations.cpp;/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_autogen/timestamp;/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/.qt/rcc/qrc_easyskan_translations.cpp.rule;/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_autogen/timestamp.rule;/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_en.qm.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_autogen")

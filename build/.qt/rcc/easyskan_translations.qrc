@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="easyskan_en.qm">/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/easyskan_en.qm</file>
+  </qresource>
+</RCC>
+

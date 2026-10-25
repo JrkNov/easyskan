@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EasySkan
+GenericName=Rychlé studiové skenování 1:1
+GenericName[cs]=Rychlé studiové skenování 1:1
+Comment=Ergonomický skenovací a ořezový CAD nástroj s RGB mixérem
+Comment[cs]=Ergonomický skenovací a ořezový CAD nástroj s RGB mixérem
+Exec=easyskan
+Icon=easyskan
+Terminal=false
+Categories=Graphics;Scanning;Qt;
+StartupNotify=true

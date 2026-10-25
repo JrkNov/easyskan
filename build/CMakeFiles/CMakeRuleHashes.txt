@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+cd36d456f50b4631539272f5c5e9133b .qt/rcc/qrc_easyskan_translations.cpp
+feb4d8b522639ac72415dbe7271d1d9a CMakeFiles/easyskan_autogen
+feb4d8b522639ac72415dbe7271d1d9a CMakeFiles/easyskan_lrelease
+cedb14f419dd8ffb98094641f42dd866 CMakeFiles/easyskan_lupdate
+1ac9af1a1615cfce3c61c65ba1913fc3 easyskan_autogen/timestamp
+ad37e41a7ff3b52842006c2c8b8576ff easyskan_en.qm

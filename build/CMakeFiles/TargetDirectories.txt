@@ -1,0 +1,14 @@
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan_lupdate.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/update_translations.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan_lrelease.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/release_translations.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan_other_files.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/edit_cache.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/rebuild_cache.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/list_install_components.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/install.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/install/local.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/install/strip.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan_autogen_timestamp_deps.dir
+/home/jirka/Dokumenty/Fedora/cpp/EasySkan/build/CMakeFiles/easyskan_autogen.dir
